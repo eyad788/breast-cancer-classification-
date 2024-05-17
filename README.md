@@ -24,7 +24,7 @@ Experimantal Results for Breakhis dataset
 
 
 The results show that Densenet201 model fits both datasets with 85% accuracy for mammogram and 92.3% accuracy for histopathology dataset.
-# TOOLS
+# Tools
 
 This project was developed using the following technologies:
 
